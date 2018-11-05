@@ -1,0 +1,26 @@
+body {
+  background-image: url('../images/nza_background.jpg');
+  margin: 0px;
+}
+
+.home-img{
+/* width: 100px; */
+width: 100%;
+}
+
+.container {
+  background-color: white;
+  width: 80%;
+  height: 100%;
+  display: block;
+  margin: 0px auto;
+}
+
+.bg-red {
+  background-color: darkred;
+}
+
+table{
+  margin-top: 100px;
+border-top: 1px solid #000;
+}
